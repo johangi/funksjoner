@@ -1,0 +1,2 @@
+# funksjoner
+Funksjoner oppgave
